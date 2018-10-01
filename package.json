@@ -1,0 +1,19 @@
+{
+  "name": "happy-quote",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+ 
+  "author": "Sanjoy",
+ 
+  "dependencies": {
+    "handlebars": "^4.0.12",
+    "hapi": "^12.1.0",
+    "inert": "^3.2.1",
+    "mysql": "^2.16.0",
+    "vision": "^4.1.1"
+  }
+}
